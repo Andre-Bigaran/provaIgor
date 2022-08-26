@@ -1,4 +1,3 @@
-package com.mycompany.prova;
 
 import java.util.Scanner;
 
